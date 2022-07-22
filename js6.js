@@ -25,7 +25,7 @@ function Check1(){
 
 
     }
-     Event.preventDefault()
+ 
     domId("result1").innerHTML=sum;}
     
     //bai 3 ;
